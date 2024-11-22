@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.201.8.83:8081/mithuntechnologies/repository/canarabank-snapshot/</url>
+	      <name>Sai</name>
+	      <url>http://13.232.77.140:8081/repository/maven-snapshots/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.201.8.83:8081/mithuntechnologies/repository/canarabank-release/</url>
+	      <name>sai </name>
+	      <url>http://13.232.77.140:8081/repository/maven-releases/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
