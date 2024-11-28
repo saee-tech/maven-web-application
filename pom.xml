@@ -97,7 +97,7 @@
     <!-- Release Repository: For stable releases (non-SNAPSHOT versions) -->
     <repository>
         <id>nexus-release</id>
-        <url>http://13.232.87.224/repository/maven-snapshots/</url>
+        <url>http://13.232.87.224repository/maven-snapshots/</url>
     </repository>
 
     <!-- Snapshot Repository: For SNAPSHOT versions (in-development versions) -->
